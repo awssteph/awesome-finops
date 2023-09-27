@@ -52,6 +52,8 @@
 - [Corey Quinn / Screaming in the Cloud](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/) - interviews people in the cloud space.
 - [Cristian Magherusan-Stanciu / LeanerCloud](https://podcasters.spotify.com/pod/show/leanercloud) - technical deep-dives on cloud optimization topics.
 - [Jon Myer](https://jonmyer.com/) - FinOps insights, interviews with FinOps people and tooling vendors.
+- [Keys to AWS Optimization Youtube](https://www.youtube.com/c/thekeystoawsoptimization) - Videos from the AWS Twitch Channel with SME's on cost optimization  
+- [Keys to AWS Optimization Podcast](https://podcasters.spotify.com/pod/show/keys-to-aws-optimization) - Podcast from the AWS Twitch Channel with SME's on cost optimization  
 
 ### Books
 
